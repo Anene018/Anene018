@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anene018
+- 👋 Hi, I’m Nnamdi
 - 👀 I’m interested in ...web design and data science
-- 🌱 I’m currently learning ...django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java , javascript and python 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me anenemaidohemmanuel@gmail.com
 
 <!---
 Anene018/Anene018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
