@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nnamdi
-- 👀 I’m interested in ...web design and data science
-- 🌱 I’m currently learning java , javascript and python 
+- 👀 I’m interested in ...web design 
+- 🌱 I’m currently learning java and javascript 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me anenemaidohemmanuel@gmail.com
 
